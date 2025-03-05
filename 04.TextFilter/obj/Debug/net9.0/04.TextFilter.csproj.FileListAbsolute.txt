@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\04.TextFilter\bin\Debug\net9.0\04.TextFilter.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\04.TextFilter\bin\Debug\net9.0\04.TextFilter.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\04.TextFilter\bin\Debug\net9.0\04.TextFilter.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\04.TextFilter\bin\Debug\net9.0\04.TextFilter.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\04.TextFilter\bin\Debug\net9.0\04.TextFilter.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\04.TextFilter\obj\Debug\net9.0\04.TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\04.TextFilter\obj\Debug\net9.0\04.TextFilter.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\04.TextFilter\obj\Debug\net9.0\04.TextFilter.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\04.TextFilter\obj\Debug\net9.0\04.TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\04.TextFilter\obj\Debug\net9.0\04.TextFilter.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\04.TextFilter\obj\Debug\net9.0\04.TextFilter.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\04.TextFilter\obj\Debug\net9.0\refint\04.TextFilter.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\04.TextFilter\obj\Debug\net9.0\04.TextFilter.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\04.TextFilter\obj\Debug\net9.0\04.TextFilter.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\04.TextFilter\obj\Debug\net9.0\ref\04.TextFilter.dll

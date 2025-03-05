@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\05.DigitsLettersAndOther\bin\Debug\net9.0\05.DigitsLettersAndOther.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\05.DigitsLettersAndOther\bin\Debug\net9.0\05.DigitsLettersAndOther.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\05.DigitsLettersAndOther\bin\Debug\net9.0\05.DigitsLettersAndOther.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\05.DigitsLettersAndOther\bin\Debug\net9.0\05.DigitsLettersAndOther.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\05.DigitsLettersAndOther\bin\Debug\net9.0\05.DigitsLettersAndOther.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\05.DigitsLettersAndOther\obj\Debug\net9.0\05.DigitsLettersAndOther.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\05.DigitsLettersAndOther\obj\Debug\net9.0\05.DigitsLettersAndOther.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\05.DigitsLettersAndOther\obj\Debug\net9.0\05.DigitsLettersAndOther.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\05.DigitsLettersAndOther\obj\Debug\net9.0\05.DigitsLettersAndOther.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\05.DigitsLettersAndOther\obj\Debug\net9.0\05.DigitsLettersAndOther.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\05.DigitsLettersAndOther\obj\Debug\net9.0\05.DigitsLettersAndOther.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\05.DigitsLettersAndOther\obj\Debug\net9.0\refint\05.DigitsLettersAndOther.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\05.DigitsLettersAndOther\obj\Debug\net9.0\05.DigitsLettersAndOther.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\05.DigitsLettersAndOther\obj\Debug\net9.0\05.DigitsLettersAndOther.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\05.DigitsLettersAndOther\obj\Debug\net9.0\ref\05.DigitsLettersAndOther.dll
