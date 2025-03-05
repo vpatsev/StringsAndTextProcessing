@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\02.RepeatString\bin\Debug\net9.0\02.RepeatString.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\02.RepeatString\bin\Debug\net9.0\02.RepeatString.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\02.RepeatString\bin\Debug\net9.0\02.RepeatString.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\02.RepeatString\bin\Debug\net9.0\02.RepeatString.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\02.RepeatString\bin\Debug\net9.0\02.RepeatString.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\02.RepeatString\obj\Debug\net9.0\02.RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\02.RepeatString\obj\Debug\net9.0\02.RepeatString.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\02.RepeatString\obj\Debug\net9.0\02.RepeatString.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\02.RepeatString\obj\Debug\net9.0\02.RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\02.RepeatString\obj\Debug\net9.0\02.RepeatString.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\02.RepeatString\obj\Debug\net9.0\02.RepeatString.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\02.RepeatString\obj\Debug\net9.0\refint\02.RepeatString.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\02.RepeatString\obj\Debug\net9.0\02.RepeatString.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\02.RepeatString\obj\Debug\net9.0\02.RepeatString.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\02.RepeatString\obj\Debug\net9.0\ref\02.RepeatString.dll

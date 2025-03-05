@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\03.Substring\bin\Debug\net9.0\03.Substring.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\03.Substring\bin\Debug\net9.0\03.Substring.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\03.Substring\bin\Debug\net9.0\03.Substring.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\03.Substring\bin\Debug\net9.0\03.Substring.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\03.Substring\bin\Debug\net9.0\03.Substring.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\03.Substring\obj\Debug\net9.0\03.Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\03.Substring\obj\Debug\net9.0\03.Substring.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\03.Substring\obj\Debug\net9.0\03.Substring.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\03.Substring\obj\Debug\net9.0\03.Substring.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\03.Substring\obj\Debug\net9.0\03.Substring.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\03.Substring\obj\Debug\net9.0\03.Substring.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\03.Substring\obj\Debug\net9.0\refint\03.Substring.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\03.Substring\obj\Debug\net9.0\03.Substring.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\03.Substring\obj\Debug\net9.0\03.Substring.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\03.Substring\obj\Debug\net9.0\ref\03.Substring.dll

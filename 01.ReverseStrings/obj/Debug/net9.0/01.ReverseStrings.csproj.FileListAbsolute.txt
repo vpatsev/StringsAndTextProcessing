@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\01.ReverseStrings\bin\Debug\net9.0\01.ReverseStrings.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\01.ReverseStrings\bin\Debug\net9.0\01.ReverseStrings.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\01.ReverseStrings\bin\Debug\net9.0\01.ReverseStrings.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\01.ReverseStrings\bin\Debug\net9.0\01.ReverseStrings.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\01.ReverseStrings\bin\Debug\net9.0\01.ReverseStrings.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net9.0\01.ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net9.0\01.ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net9.0\01.ReverseStrings.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net9.0\01.ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net9.0\01.ReverseStrings.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net9.0\01.ReverseStrings.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net9.0\refint\01.ReverseStrings.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net9.0\01.ReverseStrings.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net9.0\01.ReverseStrings.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\StringsAndTextProcessing\01.ReverseStrings\obj\Debug\net9.0\ref\01.ReverseStrings.dll
